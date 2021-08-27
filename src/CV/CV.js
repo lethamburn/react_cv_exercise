@@ -19,84 +19,60 @@ export const CV = {
         info: "🕶 Genius, billionaire, playboy, philanthropist.",
       },
       {
-        info: "🦾 If we can’t protect the Earth, you can be damn well sure we’ll avenge it!",
+        info: "🦾 I do have a responsibility to keep my inventions from evil hands – but I have a greater responsibility to oppose that evil any way I can.",
       },
     ],
   },
   education: [
     {
-      name: "Desarrollo Full Stack",
-      date: "2021",
-      where: "Upgrade Hub",
+      name: "Master in physics",
+      date: "1985",
+      where: "MIT",
     },
     {
-      name: "Desarrollo de Aplicaciones Multiplataforma",
-      date: "2019-2021 (1er año concluido)",
-      where: "Cesur",
+      name: "Aeronautical Engineering",
+      date: "1995",
+      where: "ATI Vaughn College",
     },
     {
-      name: "Administración y Contabilidad",
-      date: "2013-2016",
-      where: "Maude",
-    },
-    {
-      name: "Técnico de Laboratorio de Imagen",
-      date: "2009-2011",
-      where: "IES Politécnico Jesús Marín",
-    },
+      name: "Weapons Engineer",
+      date: "1998",
+      where: "Firearm Collegue, Queens",
+    }
   ],
   experience: [
     {
-      name: "Auxiliar Administrativo",
-      date: "01/01/2019 – 28/02/2021",
-      where: "Escudero Administraciones",
+      name: "Consultant",
+      date: "01/01/2013 – Nowadays",
+      where: "S.H.I.E.L.D",
+      description: "It builds the helicarriers used by S.H.I.E.L.D. It produces the Quinjets used by the Avengers."
+    },
+    {
+      name: "CEO",
+      date: "01/01/2000 – 28/02/2012",
+      where: "Stark Industries",
       description:
-        "Atención a proveedores y clientes personal/telefónica/e-mail, gestión de datos, informatización y digitalización de documentos, elaboración de convocatorias actas, archivado.",
-    },
-    {
-      name: "Auxiliar Administrativo",
-      date: "01/09/2013 – 01/01/2019",
-      where: "M&R Asociados",
-    },
-    {
-      name: "Aprendiz de pintor",
-      date: "01/09/2012 – 05/03/2013",
-      where: "Copimar",
-    },
-    {
-      name: "Reponedor nocturno",
-      date: "01/01/2012 – 01/09/2012",
-      where: "Supermercados Más",
-    },
-    {
-      name: "Ayudante de diseño gráfico (prácticas)",
-      date: "01/09/2011 – 01/05/2012",
-      where: "Peritec Corporation",
-    },
-    {
-      name: "Fotógrafo",
-      date: "01/09/2010 – 01/05/2011",
-      where: "Paco Herrera Fotografía",
-    },
+        "Manage the company, which is a multi-billion dollar multinational corporation that develops and manufactures advanced weapon and defense technologies. The company manufactures the armor worn by Iron Man and War Machine.",
+      },
   ],
   languages: {
-    language: "Inglés",
-    wrlevel: "Alto",
-    splevel: "Medio-Alto",
+    language: "English",
+    wrlevel: "Native",
+    splevel: "Native",
   },
-  habilities: ["HTML5", "CSS3", "Git", "Angular", "React", "MongoDB", "Node", "PHP", "mySQL", "Ultimaker Cura", "Chitubox"],
+  habilities: ["Robotics", "Robot Programming", "Physics", "Weaponery", "Engineer", "Money", "Dating", "Saving the world"],
   volunteer: [
     {
-      name: "Protectora de animales",
-      where: "Madrid",
+      name: "September Foundation",
+      where: "MIT",
       description:
-        "Voluntario habitual colaborando con labores de mantenimiento, cuidado de animales y limpieza en protectoras de animales.",
+        "The September Foundation is a program by Tony Stark to fund schools and young prodigies in their education. The foundation was named by Stark after a lyric from The Fantasticks song, 'Try to Remember,' which he heard his mother sing and play on the piano before her death.",
     },
     {
-      name: "Impresión de material médico",
-      where: "Málaga",
+      name: "Damage Control",
+      where: "U.S.A.",
       description:
-        "Impresión en 3D de material médico tales como viseras, salvaorejas y piezas para su montaje a diversos centros de salud y hospitales a comienzos de 2020",
+        "The United States Department of Damage Control, occasionally known as the DODC, is a department of the United States of America. Initially a subsidiary of S.H.I.E.L.D., Damage Control was an organization specializing in post-battle clean-up. Following the Battle of New York, Damage Control was made into an executive branch of the United States government, and in a joint venture with Stark Industries, was tasked with acquiring alien and other dangerous artifacts along with cleaning up damages caused by enhanced individuals.",
     },
   ],
 };
